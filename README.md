@@ -1,5 +1,5 @@
 
-# 👩🏻‍💻 Leonardo Barros
+# Leonardo Barros
 
 **`Desenvolvedor FullStack`**
 
