@@ -21,6 +21,13 @@ Estou sempre em busca de novos desafios que me permitam aplicar tecnologia para 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <a href="http://lattes.cnpq.br/9920024961396130" target="_blank">
+        <img 
+            alt="Currículo Lattes"
+            title="Acesse meu Currículo Lattes"
+            src="https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=cnpq&logoColor=white"
+        />
+    </a>
 </p>
 
 ### 🤖 Linguagens e Tecnologias
