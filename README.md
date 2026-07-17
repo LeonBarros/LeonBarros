@@ -23,9 +23,9 @@ Estou sempre em busca de novos desafios que me permitam aplicar tecnologia para 
     </a>
     <a href="http://lattes.cnpq.br/9920024961396130" target="_blank">
         <img 
-            alt="Lattes "
+            alt="Lattes"
             title="Acesse meu Currículo Lattes"
-            src="https://img.shields.io/badge/Currículo_Lattes-003366?style=for-the-badge&logo=cnpq&logoColor=white"
+            src="https://img.shields.io/badge/Lattes-003366?style=for-the-badge&logo=cnpq&logoColor=white"
         />
     </a>
 </p>
