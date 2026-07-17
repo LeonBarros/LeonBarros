@@ -1,4 +1,3 @@
-
 # Leonardo Barros
 
 **`Desenvolvedor FullStack`**
@@ -13,6 +12,13 @@ Estou sempre em busca de novos desafios que me permitam aplicar tecnologia para 
             alt="Instagram"
             title="Me siga no Instagram"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+    <a href="SUA_URL_DO_LINKEDIN_AQUI" target="_blank">
+        <img 
+            alt="LinkedIn"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
