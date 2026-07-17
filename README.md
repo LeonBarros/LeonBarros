@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Leonardo Barros Gomes, tenho 21 anos e sou natural de Alagoas. Sou técnico em Informática pelo CETEPI I e atualmente curso Engenharia de Produção na Universidade Federal de Alagoas (UFAL).
+Me chamo Leonardo Barros Gomes, tenho 21 anos e sou natural de Alagoas. Sou técnico em Informática e Eletrônicos e atualmente curso Engenharia de Produção na Universidade Federal de Alagoas (UFAL).
 
 Estou sempre em busca de novos desafios que me permitam aplicar tecnologia para desenvolver soluções eficientes, aprender novas ferramentas e evoluir profissionalmente como desenvolvedor Full Stack e entusiasta da Ciência de Dados.
 
